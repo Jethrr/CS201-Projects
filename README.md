@@ -1,4 +1,4 @@
 # CS201-Projects
 godinez things
 
-practice para semi finals
+dump folder tanan project para godinez
